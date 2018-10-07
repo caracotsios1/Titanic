@@ -13,7 +13,7 @@ The simplest Git/GitHub workflow goes like this:
 3. Tell Git to take a save a "snapshot" of those changes locally
 4. Push the changes/snapshots to GitHub repository
 
-In terms of GitHub commands, this looks like
+In terms of GitHub commands, open up the Git Bash terminal and do the following:
 0. `git pull`*
 1. [Do some stuff to `myfile.txt`]
 2. `git add myfile.txt`
